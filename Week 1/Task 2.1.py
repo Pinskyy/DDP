@@ -1,0 +1,5 @@
+print("========================")
+print("Nama \t: Izmil Arifin")
+print("NIM \t: 0110223094")
+print("Kelas \t: TI03")
+print("Alamat \t: Cibinong")
